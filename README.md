@@ -1,8 +1,7 @@
-# iComposer
-iComposer: An Automatic Songwriting System for Chinese Popular Music </br>
+# iComposer: An Automatic Songwriting System for Chinese Popular Music </br>
 Hsin-Pei Lee, Jhih-Sheng Fan, Wei-Yun Ma </br>
 North American Chapter of the Association for Computational Linguistics (NAACL) 2019 </br>
-Paper: https://www.aclweb.org/anthology/N19-4015/
+Paper: https://www.aclweb.org/anthology/N19-4015/  </br>
 Demo Video: https://www.youtube.com/watch?v=Gstzqls2f4A
 
 # Introduction
